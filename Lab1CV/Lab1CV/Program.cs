@@ -7,6 +7,7 @@ namespace Lab1CV
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Segundo write");
         }
     }
 }
