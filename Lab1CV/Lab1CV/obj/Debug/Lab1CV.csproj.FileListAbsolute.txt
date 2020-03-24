@@ -1,0 +1,6 @@
+/Users/Carlo/Desktop/laboratorio-01-PastedBud/Lab1CV/Lab1CV/bin/Debug/Lab1CV.exe
+/Users/Carlo/Desktop/laboratorio-01-PastedBud/Lab1CV/Lab1CV/bin/Debug/Lab1CV.pdb
+/Users/Carlo/Desktop/laboratorio-01-PastedBud/Lab1CV/Lab1CV/obj/Debug/Lab1CV.csprojAssemblyReference.cache
+/Users/Carlo/Desktop/laboratorio-01-PastedBud/Lab1CV/Lab1CV/obj/Debug/Lab1CV.csproj.CoreCompileInputs.cache
+/Users/Carlo/Desktop/laboratorio-01-PastedBud/Lab1CV/Lab1CV/obj/Debug/Lab1CV.exe
+/Users/Carlo/Desktop/laboratorio-01-PastedBud/Lab1CV/Lab1CV/obj/Debug/Lab1CV.pdb
